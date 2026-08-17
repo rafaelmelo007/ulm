@@ -39,7 +39,7 @@
     "license-checker-rseidelsohn": "^4.0.0",
     "nock": "^13.0.0",
     "node-pty": "^1.0.0",
-    "tinybench": "^2.0.0",
+    "tinybench": "^6.1.3",
     "typescript": "^5.4.0",
     "vitest": "^1.0.0"
   }
